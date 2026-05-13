@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#020617"/>
+  <circle cx="160" cy="190" r="6" fill="#ffffff"/>
+  <circle cx="630" cy="145" r="5" fill="#ffffff"/>
+  <circle cx="520" cy="300" r="4" fill="#ffffff"/>
+  <circle cx="250" cy="370" r="5" fill="#ffffff"/>
+  <path d="M400 80 L432 190 L545 190 L453 255 L488 365 L400 300 L312 365 L347 255 L255 190 L368 190 Z" fill="#facc15"/>
+  <path d="M0 700 C130 620 240 720 350 650 C490 560 620 670 800 570 L800 1000 L0 1000 Z" fill="#0f766e"/>
+  <path d="M0 790 C150 700 300 810 440 735 C575 665 690 745 800 690 L800 1000 L0 1000 Z" fill="#f8fafc" opacity=".22"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff">Happy New Year</text>
+  <text x="400" y="605" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#ccfbf1">Fresh dreams and bright beginnings</text>
+</svg>

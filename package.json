@@ -1,0 +1,21 @@
+{
+  "name": "custom-greetings-wishes-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full stack MERN app for creating personalized greetings and wishes.",
+  "type": "module",
+  "scripts": {
+    "frontend": "npm run dev --prefix greetings-app",
+    "backend": "npm run dev --prefix backend",
+    "install:all": "npm install --prefix greetings-app && npm install --prefix backend"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "express",
+    "mongodb",
+    "greetings"
+  ],
+  "author": "",
+  "license": "MIT"
+}

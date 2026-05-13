@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#111827"/>
+  <path d="M0 0 H800 V410 C650 300 560 405 430 315 C260 198 150 310 0 220 Z" fill="#22c55e" opacity=".9"/>
+  <path d="M0 1000 H800 V660 C640 785 510 645 380 740 C225 852 120 750 0 850 Z" fill="#38bdf8" opacity=".72"/>
+  <circle cx="400" cy="420" r="170" fill="#facc15" opacity=".75"/>
+  <text x="400" y="530" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">Congratulations</text>
+  <text x="400" y="590" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#d1fae5">You did something amazing</text>
+</svg>

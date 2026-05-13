@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="love" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#be123c"/>
+      <stop offset="1" stop-color="#fb7185"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#love)"/>
+  <path d="M400 650 C180 500 110 330 230 230 C315 160 380 230 400 285 C420 230 485 160 570 230 C690 330 620 500 400 650 Z" fill="#ffffff" opacity=".24"/>
+  <circle cx="120" cy="850" r="140" fill="#ffffff" opacity=".13"/>
+  <circle cx="700" cy="120" r="110" fill="#111827" opacity=".12"/>
+  <text x="400" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff">With Love</text>
+  <text x="400" y="585" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#ffe4e6">A warm wish from the heart</text>
+</svg>
