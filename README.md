@@ -95,3 +95,5 @@ Frontend `.env`:
 ```text
 VITE_API_BASE_URL=http://localhost:5000/api
 ```
+##Screenshots
+<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/3849068a-afe9-4ccf-98a3-28a3acae7dfe" />
