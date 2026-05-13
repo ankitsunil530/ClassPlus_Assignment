@@ -14,7 +14,8 @@ const port = process.env.PORT || 5000;
 const allowedOrigins = [
   process.env.CLIENT_URL,
   "http://localhost:5173",
-  "http://127.0.0.1:5173"
+  "http://127.0.0.1:5173",
+  "https://class-plus-assignment-three.vercel.app/"
 ].filter(Boolean);
 
 app.use(cors({
